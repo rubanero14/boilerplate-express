@@ -1,5 +1,5 @@
 {
-  "name": "fcc-learn-node-with-express",
+  "name": "boilerplate-node-express",
   "version": "0.1.0",
   "dependencies": {
     "body-parser": "^1.15.2",
